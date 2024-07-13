@@ -1,0 +1,16 @@
+body{
+    background-color: #676767;
+}
+.card{
+    background-color: #959393;
+    color: rgb(69, 69, 69);
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: 20px auto;
+}
+.card img{
+    width: 100%;
+    height: 70%;
+    border-radius: 15px;
+}
